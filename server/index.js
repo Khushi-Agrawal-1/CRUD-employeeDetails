@@ -33,6 +33,7 @@ app.post("/create", (req, res) => {
   );
 });
 
+
 app.get("/employees", (req, res) => {
   db.query("SELECT * FROM employee", (err, result) => {
     if (err) {
