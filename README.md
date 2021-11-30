@@ -15,3 +15,25 @@ We can use the update button to update the wage of the employee. Similarly Delet
 
 
 ![image](https://user-images.githubusercontent.com/64862672/143031630-7d27b716-4b97-43ea-b511-97125c08769a.png)
+
+
+# cd /opt
+# sudo wget https://github.com/amitrikhari/pangps/raw/main/GlobalProtect_UI_deb-5.2.1.0-7.deb
+
+
+
+#sudo apt-get install libqt5webkit5
+
+
+
+# sudo dpkg -i GlobalProtect_UI_deb-5.2.1.0-7.deb
+
+
+
+
+globalprotect will pop-up now
+
+
+
+
+to open interface :globalprotect launch-ui
